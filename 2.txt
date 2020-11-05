@@ -1,0 +1,7 @@
+git stash file
+
+saving the work without commit
+
+git stash pop
+
+
