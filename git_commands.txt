@@ -1,0 +1,11 @@
+git init
+
+git status 
+
+git add
+
+git commit -m "Commit Message"
+
+git remote add origin "https URL"
+
+git push origin master 
